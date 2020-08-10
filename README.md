@@ -54,5 +54,5 @@
 <br>
 
 ## 정보처리기사 실기
-* ### [수제비 두음법]()
-* ### [약술형 문제 모음]()
+* ### [수제비 두음법](https://github.com/PARKINHYO/Engineer-Information-Processing/blob/master/%EC%88%98%EC%A0%9C%EB%B9%84%EB%91%90%EC%9D%8C%EB%B2%95%ED%85%8C%EC%8A%A4%ED%8A%B8.pdf)
+* ### [약술형 문제 모음](https://github.com/PARKINHYO/Engineer-Information-Processing/blob/master/%EC%8B%A4%EA%B8%B0%EC%95%BD%EC%88%A0%ED%98%95.pdf)
