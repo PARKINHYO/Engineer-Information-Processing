@@ -45,7 +45,7 @@
 ## 정보처리기사 실기
 ### &nbsp;&nbsp;&nbsp;&nbsp;[Ⅰ. 요구사항 확인](https://ihp001.tistory.com/12)
 ### &nbsp;&nbsp;&nbsp;&nbsp;[Ⅱ. 데이터 입출력 구현](https://ihp001.tistory.com/14)
-### &nbsp;&nbsp;&nbsp;&nbsp;[Ⅲ. 통합 구현]()
+### &nbsp;&nbsp;&nbsp;&nbsp;[Ⅲ. 통합 구현](https://ihp001.tistory.com/17)
 ### &nbsp;&nbsp;&nbsp;&nbsp;[Ⅳ. 서버 프로그램 구현]()
 ### &nbsp;&nbsp;&nbsp;&nbsp;[Ⅴ. 인터페이스 구현]()
 ### &nbsp;&nbsp;&nbsp;&nbsp;[Ⅵ. 화면 설계]()
