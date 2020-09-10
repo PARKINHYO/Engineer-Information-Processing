@@ -44,7 +44,7 @@
  * &nbsp;&nbsp;&nbsp;&nbsp;[Ⅳ. 서버 프로그램 구현](https://ihp001.tistory.com/18?category=792948)
  * &nbsp;&nbsp;&nbsp;&nbsp;[Ⅴ. 인터페이스 구현](https://ihp001.tistory.com/22?category=792948)
  * &nbsp;&nbsp;&nbsp;&nbsp;[Ⅵ. 화면 설계](https://ihp001.tistory.com/22?category=792948)
- * &nbsp;&nbsp;&nbsp;&nbsp;[Ⅶ. 애플리케이션 테스트 관리]()
+ * &nbsp;&nbsp;&nbsp;&nbsp;[Ⅶ. 애플리케이션 테스트 관리](https://ihp001.tistory.com/25)
  * &nbsp;&nbsp;&nbsp;&nbsp;[Ⅷ. SQL 응용]()
  * &nbsp;&nbsp;&nbsp;&nbsp;[Ⅸ. 소프트웨어 개발 보안 구축]()
  * &nbsp;&nbsp;&nbsp;&nbsp;[Ⅹ. 프로그래밍 언어 활용]()
