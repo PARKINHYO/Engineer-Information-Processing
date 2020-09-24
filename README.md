@@ -48,7 +48,10 @@
  * &nbsp;&nbsp;&nbsp;&nbsp;[Ⅷ. SQL 응용](https://ihp001.tistory.com/28?category=792948)
  * &nbsp;&nbsp;&nbsp;&nbsp;[Ⅸ. 소프트웨어 개발 보안 구축](https://ihp001.tistory.com/31?category=792948)
  * &nbsp;&nbsp;&nbsp;&nbsp;[Ⅹ. 프로그래밍 언어 활용]()
- * &nbsp;&nbsp;&nbsp;&nbsp;[XI. 응용 SW 기초 기술 활용]()
- * &nbsp;&nbsp;&nbsp;&nbsp;[XII. 제품 소프트웨어 패키징]()
+ * &nbsp;&nbsp;&nbsp;&nbsp;[XI. 응용 SW 기초 기술 활용(1)](https://ihp001.tistory.com/36?category=792948)
+ * &nbsp;&nbsp;&nbsp;&nbsp;[XI. 응용 SW 기초 기술 활용(2)](https://ihp001.tistory.com/38?category=792948)
+ * &nbsp;&nbsp;&nbsp;&nbsp;[XII. 제품 소프트웨어 패키징](https://ihp001.tistory.com/40?category=792948)
  * &nbsp;&nbsp;&nbsp;&nbsp;[수제비 두음법 테스트](https://github.com/PARKINHYO/Engineer-Information-Processing/blob/master/%EC%88%98%EC%A0%9C%EB%B9%84%EB%91%90%EC%9D%8C%EB%B2%95%ED%85%8C%EC%8A%A4%ED%8A%B8.pdf)
  * &nbsp;&nbsp;&nbsp;&nbsp;[약술형 문제 모음](https://github.com/PARKINHYO/Engineer-Information-Processing/blob/master/%EC%8B%A4%EA%B8%B0%EC%95%BD%EC%88%A0%ED%98%95.pdf)
+
+ 
