@@ -20,7 +20,7 @@
 *  [1장 논리 데이터베이스 설계](https://github.com/PARKINHYO/Engineer-Information-Processing/blob/master/3%EA%B3%BC%EB%AA%A9%201%EC%9E%A5%20%EB%85%BC%EB%A6%AC%20%ED%85%8C%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%A4%EA%B3%84.md)
 *  [2장 물리 데이터베이스 설계](https://github.com/PARKINHYO/Engineer-Information-Processing/blob/master/3%EA%B3%BC%EB%AA%A9%202%EC%9E%A5%20%EB%AC%BC%EB%A6%AC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%A4%EA%B3%84.md)
 *  [3장 SQL 응용](https://github.com/PARKINHYO/Engineer-Information-Processing/blob/master/3%EA%B3%BC%EB%AA%A9%203%EC%9E%A5%20SQL%EC%9D%91%EC%9A%A9.md)
-*  [4장 SQL 활용](https://github.com/PARKINHYO/Engineer-Information-Processing/blob/master/3%EA%B3%BC%EB%AA%A9%204%EC%9E%A5%20SQL%ED%99%9C%EC%9A%A9.md)
+*  [4장 SQL 활용](https://gitub.com/PARKINHYO/Engineer-Information-Processing/blob/master/3%EA%B3%BC%EB%AA%A9%204%EC%9E%A5%20SQL%ED%99%9C%EC%9A%A9.md)
 *  [5장 데이터 전환](https://github.com/PARKINHYO/Engineer-Information-Processing/blob/master/3%EA%B3%BC%EB%AA%A9%205%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%ED%99%98.md)
 
 ### 4과목 프로그래밍 언어 활용
@@ -47,11 +47,18 @@
  * &nbsp;&nbsp;&nbsp;&nbsp;[Ⅶ. 애플리케이션 테스트 관리](https://ihp001.tistory.com/25)
  * &nbsp;&nbsp;&nbsp;&nbsp;[Ⅷ. SQL 응용](https://ihp001.tistory.com/28?category=792948)
  * &nbsp;&nbsp;&nbsp;&nbsp;[Ⅸ. 소프트웨어 개발 보안 구축](https://ihp001.tistory.com/31?category=792948)
- * &nbsp;&nbsp;&nbsp;&nbsp;[Ⅹ. 프로그래밍 언어 활용]()
+ * &nbsp;&nbsp;&nbsp;&nbsp;[Ⅹ. 프로그래밍 언어 활용](https://ihp001.tistory.com/37?category=792948)
  * &nbsp;&nbsp;&nbsp;&nbsp;[XI. 응용 SW 기초 기술 활용(1)](https://ihp001.tistory.com/36?category=792948)
  * &nbsp;&nbsp;&nbsp;&nbsp;[XI. 응용 SW 기초 기술 활용(2)](https://ihp001.tistory.com/38?category=792948)
  * &nbsp;&nbsp;&nbsp;&nbsp;[XII. 제품 소프트웨어 패키징](https://ihp001.tistory.com/40?category=792948)
  * &nbsp;&nbsp;&nbsp;&nbsp;[수제비 두음법 테스트](https://github.com/PARKINHYO/Engineer-Information-Processing/blob/master/%EC%88%98%EC%A0%9C%EB%B9%84%EB%91%90%EC%9D%8C%EB%B2%95%ED%85%8C%EC%8A%A4%ED%8A%B8.pdf)
  * &nbsp;&nbsp;&nbsp;&nbsp;[약술형 문제 모음](https://github.com/PARKINHYO/Engineer-Information-Processing/blob/master/%EC%8B%A4%EA%B8%B0%EC%95%BD%EC%88%A0%ED%98%95.pdf)
 
+ 
+ <br>
+ <br>
+
+ <b>출처</b>
+ 시나공 정보처리기사 필기(저자 : 강윤석, 김용갑, 김우경, 김정준) [길벗]
+ 정보처리기사 실기 2020 수제비(저자 : NCS 정보처리기술사 연구회) [건기원]
  
