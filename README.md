@@ -61,9 +61,11 @@
   * [2회(1)](https://www.youtube.com/watch?v=qEqfrYYRQyc&list=PLwXldj55mFgCvFIwh22wR-Jm2L3Cz26St&index=3)
   * [2회(2)](https://www.youtube.com/watch?v=e_5oYEqhJMA)
   * [2회(3)](https://www.youtube.com/watch?v=cdY2WkpPo4M)
-  * [3회(1)](https://www.youtube.com/watch?v=7-QZXTpPR90&list=PLwXldj55mFgCvFIwh22wR-Jm2L3Cz26St&index=9)
-  * [3회(2)](https://www.youtube.com/watch?v=dQ2zRSc0oLI&list=PLwXldj55mFgCvFIwh22wR-Jm2L3Cz26St&index=10)
-
+  * [3회(1)](https://www.youtube.com/watch?v=noKiGztSFPM&list=PLwXldj55mFgCvFIwh22wR-Jm2L3Cz26St&index=8)
+  * [3회(2)](https://www.youtube.com/watch?v=7-QZXTpPR90&list=PLwXldj55mFgCvFIwh22wR-Jm2L3Cz26St&index=9)
+  * [3회(3)](https://www.youtube.com/watch?v=dQ2zRSc0oLI&list=PLwXldj55mFgCvFIwh22wR-Jm2L3Cz26St&index=10)
+  * [4, 5회(1)](https://www.youtube.com/watch?v=Gw2bpc7PfX4)
+  
 <br>
 <br>
 
