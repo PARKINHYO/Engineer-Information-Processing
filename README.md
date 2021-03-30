@@ -65,6 +65,8 @@
   * [3회(2)](https://www.youtube.com/watch?v=7-QZXTpPR90&list=PLwXldj55mFgCvFIwh22wR-Jm2L3Cz26St&index=9)
   * [3회(3)](https://www.youtube.com/watch?v=dQ2zRSc0oLI&list=PLwXldj55mFgCvFIwh22wR-Jm2L3Cz26St&index=10)
   * [4, 5회(1)](https://www.youtube.com/watch?v=Gw2bpc7PfX4)
+  * [4, 5회(2)](https://www.youtube.com/watch?v=ZojK-z37oVE)
+  * [4, 5회(3)](https://www.youtube.com/watch?v=l79a66BnkGs)
   
 <br>
 <br>
