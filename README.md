@@ -56,22 +56,19 @@
 * [SQL문제 대비하기](./sql.md)
 * [수제비 두음법 테스트](https://github.com/PARKINHYO/Engineer-Information-Processing/blob/master/%EC%88%98%EC%A0%9C%EB%B9%84%EB%91%90%EC%9D%8C%EB%B2%95%ED%85%8C%EC%8A%A4%ED%8A%B8.pdf)
 * [약술형 문제 모음](https://github.com/PARKINHYO/Engineer-Information-Processing/blob/master/%EC%8B%A4%EA%B8%B0%EC%95%BD%EC%88%A0%ED%98%95.pdf)
-* 2020 실기 기출문제 해설(두목넷 유투브)
+* 2020 실기 기출문제 해설 강의
   * [1회](https://www.youtube.com/watch?v=ao3Nn2UCZL8&list=PLwXldj55mFgCvFIwh22wR-Jm2L3Cz26St&index=5)
-  * [2회(1)](https://www.youtube.com/watch?v=qEqfrYYRQyc&list=PLwXldj55mFgCvFIwh22wR-Jm2L3Cz26St&index=3)
-  * [2회(2)](https://www.youtube.com/watch?v=e_5oYEqhJMA)
-  * [2회(3)](https://www.youtube.com/watch?v=cdY2WkpPo4M)
-  * [3회(1)](https://www.youtube.com/watch?v=noKiGztSFPM&list=PLwXldj55mFgCvFIwh22wR-Jm2L3Cz26St&index=8)
-  * [3회(2)](https://www.youtube.com/watch?v=7-QZXTpPR90&list=PLwXldj55mFgCvFIwh22wR-Jm2L3Cz26St&index=9)
-  * [3회(3)](https://www.youtube.com/watch?v=dQ2zRSc0oLI&list=PLwXldj55mFgCvFIwh22wR-Jm2L3Cz26St&index=10)
-  * [4, 5회(1)](https://www.youtube.com/watch?v=Gw2bpc7PfX4)
-  * [4, 5회(2)](https://www.youtube.com/watch?v=ZojK-z37oVE)
-  * [4, 5회(3)](https://www.youtube.com/watch?v=l79a66BnkGs)
+  * [2회(1)](https://www.youtube.com/watch?v=qEqfrYYRQyc&list=PLwXldj55mFgCvFIwh22wR-Jm2L3Cz26St&index=3), [(2)](https://www.youtube.com/watch?v=e_5oYEqhJMA), [(3)](https://www.youtube.com/watch?v=cdY2WkpPo4M)
+  * [3회(1)](https://www.youtube.com/watch?v=noKiGztSFPM&list=PLwXldj55mFgCvFIwh22wR-Jm2L3Cz26St&index=8), [(2)](https://www.youtube.com/watch?v=7-QZXTpPR90&list=PLwXldj55mFgCvFIwh22wR-Jm2L3Cz26St&index=9), [(3)](https://www.youtube.com/watch?v=dQ2zRSc0oLI&list=PLwXldj55mFgCvFIwh22wR-Jm2L3Cz26St&index=10)
+  * [4, 5회(1)](https://www.youtube.com/watch?v=Gw2bpc7PfX4), [(2)](https://www.youtube.com/watch?v=ZojK-z37oVE), [(3)](https://www.youtube.com/watch?v=l79a66BnkGs)
+* 2021 실기 기출문제 해설 강의
+  * [1회 코드 아닌 문제](https://www.youtube.com/watch?v=Cn6ShEceVss&list=PLwXldj55mFgCvFIwh22wR-Jm2L3Cz26St&index=14)
+  * [1회 코드 문제](https://www.youtube.com/watch?v=Y9jPpl5_Jkg&list=PLwXldj55mFgCvFIwh22wR-Jm2L3Cz26St&index=15)
   
 <br>
 <br>
 
-출처<br>
+### 출처<br>
 시나공 정보처리기사 필기(저자 : 강윤석, 김용갑, 김우경, 김정준) [길벗]<br>
 정보처리기사 실기 2020 수제비(저자 : NCS 정보처리기술사 연구회) [건기원]
  
